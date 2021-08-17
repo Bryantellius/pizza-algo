@@ -7,3 +7,4 @@
 5. Add delivery address for pizzas
 6. Select a delivery time
 7. Pay for pizzas
+8. Enjoy Pizzas
